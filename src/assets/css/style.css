@@ -9558,7 +9558,7 @@ fieldset:disabled .btn {
 }
 
 .rounded {
-  border-radius: 0 !important;
+  border-radius:  0 !important ;
 }
 
 .rounded-0 {
@@ -19403,10 +19403,10 @@ small, .small,
   .rtl-flip.bi:before{
     transform: inherit;
   }
-*/
+
 .bg-parallax {
   -webkit-transform: translate3d(0, 0, 0);
-}
+}*/
 
 .bg-parallax:before {
   z-index: 0;
