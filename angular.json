@@ -30,11 +30,10 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "node_nodules/animate.css/animate.min.css" ,            
+            "styles": [                         
               "src/styles.scss"              
             ],
-            "scripts": ["node_nodules/vanilla-tilt/dist/vanilla-tilt.js"],
+            "scripts": ["node_modules/vanilla-tilt/dist/vanilla-tilt.js"],
             "vendorChunk": true,
             "extractLicenses": false,
             "buildOptimizer": false,
